@@ -1,4 +1,4 @@
-# :earth_americas: GDP dashboard template
+# 🔥: Puntos de calor por estado
 
 A simple Streamlit app showing the GDP of different countries in the world.
 
